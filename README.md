@@ -1,1 +1,3 @@
-# medium-home-page-clone
+# Medium Home Page Clone
+
+- https://gb-medium-clone.netlify.app/
